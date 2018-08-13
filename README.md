@@ -30,6 +30,8 @@ binary and fine-grained classification on
 Stanford Sentiment Treebank (SST).
 
 ## Parameters
+|Parameter|Are|
+|:---|:---|
 |--filename|pre-trained word embeddings file|
 |--lexicon|lexicon which provide sentiment intensity|
 |--top|top-k nearest neighbor|
